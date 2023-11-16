@@ -1,0 +1,56 @@
+
+
+#menu{background-color: white;}
+h2{
+    color: #292929;
+
+    font-family:;
+    font-size: 90px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 106%; /* 95.4px */
+    letter-spacing: 0.9px;
+    text-transform: uppercase;
+}
+
+h3{
+    color: #FFF;
+
+font-family:;
+font-size: 47px;
+font-style: normal;
+font-weight: 800;
+line-height: 106%; /* 49.82px */
+letter-spacing: 0.47px;
+text-transform: uppercase;
+}
+
+.corner1{
+    position: absolute;
+    top: 46px; left: 49px;
+}
+
+.corner2{
+    position: absolute;
+    bottom: 47px; right: 48px;
+}
+
+.button_menu{
+display: flex;
+width: 396px;
+height: 134px;
+padding: 41px 24px 41.831px 38px;
+justify-content: flex-end;
+align-items: flex-start;
+gap: 12.918px;
+flex-shrink: 0;
+}
+
+.section{
+    padding-left: 120px;
+    padding-right: 120px;
+}
+
+.menu_img{
+    object-position: left;
+}
